@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tumbleandfall
-- 👀 I’m very new to coding so I'm still figuring out what I'm more interested in.
-- 🌱 I’m currently learning Python.
+- 👀 I’m very interested in -
+- 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on -
 - 📫 How to reach me -
